@@ -1,0 +1,3650 @@
+{
+  "source": "ISRO NRSC Bhoonidhi Open Geoportal (C-SAR Sentinel-1 / RISAT)",
+  "sensor_orbit": "Descending Track 63 (C-Band Interferometry, 12-day revisit)",
+  "processing_pipeline": "Multi-Temporal Stacking-InSAR & Interferometric Coherence Gradient Analysis",
+  "calibration": "Gondwana Coal Measures (Barakar & Raniganj Formations)",
+  "zones": {
+    "zone_a": {
+      "zone_id": "zone_a",
+      "zone_title": "Zone A (Panel 7 Active)",
+      "max_subsidence_rate_mm_year": 28.2,
+      "mean_subsidence_rate_mm_year": 7.54,
+      "peak_coherence_gradient": 0.927,
+      "dip_transect": [
+        {
+          "northing_m": 0.0,
+          "deformation_rate_mm_year": 0.64,
+          "coherence_gradient": 0.083
+        },
+        {
+          "northing_m": 10.0,
+          "deformation_rate_mm_year": 0.74,
+          "coherence_gradient": 0.118
+        },
+        {
+          "northing_m": 20.1,
+          "deformation_rate_mm_year": 0.89,
+          "coherence_gradient": 0.151
+        },
+        {
+          "northing_m": 30.1,
+          "deformation_rate_mm_year": 1.07,
+          "coherence_gradient": 0.176
+        },
+        {
+          "northing_m": 40.1,
+          "deformation_rate_mm_year": 1.29,
+          "coherence_gradient": 0.203
+        },
+        {
+          "northing_m": 50.2,
+          "deformation_rate_mm_year": 1.53,
+          "coherence_gradient": 0.233
+        },
+        {
+          "northing_m": 60.2,
+          "deformation_rate_mm_year": 1.81,
+          "coherence_gradient": 0.265
+        },
+        {
+          "northing_m": 70.2,
+          "deformation_rate_mm_year": 2.12,
+          "coherence_gradient": 0.299
+        },
+        {
+          "northing_m": 80.3,
+          "deformation_rate_mm_year": 2.48,
+          "coherence_gradient": 0.336
+        },
+        {
+          "northing_m": 90.3,
+          "deformation_rate_mm_year": 2.88,
+          "coherence_gradient": 0.373
+        },
+        {
+          "northing_m": 100.3,
+          "deformation_rate_mm_year": 3.32,
+          "coherence_gradient": 0.412
+        },
+        {
+          "northing_m": 110.3,
+          "deformation_rate_mm_year": 3.8,
+          "coherence_gradient": 0.452
+        },
+        {
+          "northing_m": 120.4,
+          "deformation_rate_mm_year": 4.33,
+          "coherence_gradient": 0.494
+        },
+        {
+          "northing_m": 130.4,
+          "deformation_rate_mm_year": 4.91,
+          "coherence_gradient": 0.536
+        },
+        {
+          "northing_m": 140.4,
+          "deformation_rate_mm_year": 5.54,
+          "coherence_gradient": 0.578
+        },
+        {
+          "northing_m": 150.5,
+          "deformation_rate_mm_year": 6.21,
+          "coherence_gradient": 0.62
+        },
+        {
+          "northing_m": 160.5,
+          "deformation_rate_mm_year": 6.94,
+          "coherence_gradient": 0.66
+        },
+        {
+          "northing_m": 170.5,
+          "deformation_rate_mm_year": 7.7,
+          "coherence_gradient": 0.698
+        },
+        {
+          "northing_m": 180.6,
+          "deformation_rate_mm_year": 8.51,
+          "coherence_gradient": 0.734
+        },
+        {
+          "northing_m": 190.6,
+          "deformation_rate_mm_year": 9.36,
+          "coherence_gradient": 0.768
+        },
+        {
+          "northing_m": 200.6,
+          "deformation_rate_mm_year": 10.24,
+          "coherence_gradient": 0.799
+        },
+        {
+          "northing_m": 210.7,
+          "deformation_rate_mm_year": 11.16,
+          "coherence_gradient": 0.824
+        },
+        {
+          "northing_m": 220.7,
+          "deformation_rate_mm_year": 12.11,
+          "coherence_gradient": 0.844
+        },
+        {
+          "northing_m": 230.7,
+          "deformation_rate_mm_year": 13.08,
+          "coherence_gradient": 0.859
+        },
+        {
+          "northing_m": 240.8,
+          "deformation_rate_mm_year": 14.06,
+          "coherence_gradient": 0.869
+        },
+        {
+          "northing_m": 250.8,
+          "deformation_rate_mm_year": 15.06,
+          "coherence_gradient": 0.873
+        },
+        {
+          "northing_m": 260.8,
+          "deformation_rate_mm_year": 16.06,
+          "coherence_gradient": 0.869
+        },
+        {
+          "northing_m": 270.8,
+          "deformation_rate_mm_year": 17.06,
+          "coherence_gradient": 0.858
+        },
+        {
+          "northing_m": 280.9,
+          "deformation_rate_mm_year": 18.05,
+          "coherence_gradient": 0.839
+        },
+        {
+          "northing_m": 290.9,
+          "deformation_rate_mm_year": 19.02,
+          "coherence_gradient": 0.812
+        },
+        {
+          "northing_m": 300.9,
+          "deformation_rate_mm_year": 19.97,
+          "coherence_gradient": 0.777
+        },
+        {
+          "northing_m": 311.0,
+          "deformation_rate_mm_year": 20.88,
+          "coherence_gradient": 0.736
+        },
+        {
+          "northing_m": 321.0,
+          "deformation_rate_mm_year": 21.76,
+          "coherence_gradient": 0.689
+        },
+        {
+          "northing_m": 331.0,
+          "deformation_rate_mm_year": 22.6,
+          "coherence_gradient": 0.639
+        },
+        {
+          "northing_m": 341.1,
+          "deformation_rate_mm_year": 23.38,
+          "coherence_gradient": 0.586
+        },
+        {
+          "northing_m": 351.1,
+          "deformation_rate_mm_year": 24.12,
+          "coherence_gradient": 0.532
+        },
+        {
+          "northing_m": 361.1,
+          "deformation_rate_mm_year": 24.8,
+          "coherence_gradient": 0.478
+        },
+        {
+          "northing_m": 371.2,
+          "deformation_rate_mm_year": 25.43,
+          "coherence_gradient": 0.427
+        },
+        {
+          "northing_m": 381.2,
+          "deformation_rate_mm_year": 26.0,
+          "coherence_gradient": 0.38
+        },
+        {
+          "northing_m": 391.2,
+          "deformation_rate_mm_year": 26.51,
+          "coherence_gradient": 0.336
+        },
+        {
+          "northing_m": 401.3,
+          "deformation_rate_mm_year": 26.96,
+          "coherence_gradient": 0.297
+        },
+        {
+          "northing_m": 411.3,
+          "deformation_rate_mm_year": 27.33,
+          "coherence_gradient": 0.263
+        },
+        {
+          "northing_m": 421.3,
+          "deformation_rate_mm_year": 27.63,
+          "coherence_gradient": 0.236
+        },
+        {
+          "northing_m": 431.3,
+          "deformation_rate_mm_year": 27.86,
+          "coherence_gradient": 0.217
+        },
+        {
+          "northing_m": 441.4,
+          "deformation_rate_mm_year": 28.02,
+          "coherence_gradient": 0.205
+        },
+        {
+          "northing_m": 451.4,
+          "deformation_rate_mm_year": 28.12,
+          "coherence_gradient": 0.196
+        },
+        {
+          "northing_m": 461.4,
+          "deformation_rate_mm_year": 28.18,
+          "coherence_gradient": 0.19
+        },
+        {
+          "northing_m": 471.5,
+          "deformation_rate_mm_year": 28.2,
+          "coherence_gradient": 0.188
+        },
+        {
+          "northing_m": 481.5,
+          "deformation_rate_mm_year": 28.17,
+          "coherence_gradient": 0.192
+        },
+        {
+          "northing_m": 491.5,
+          "deformation_rate_mm_year": 28.1,
+          "coherence_gradient": 0.199
+        },
+        {
+          "northing_m": 501.6,
+          "deformation_rate_mm_year": 27.97,
+          "coherence_gradient": 0.21
+        },
+        {
+          "northing_m": 511.6,
+          "deformation_rate_mm_year": 27.78,
+          "coherence_gradient": 0.223
+        },
+        {
+          "northing_m": 521.6,
+          "deformation_rate_mm_year": 27.54,
+          "coherence_gradient": 0.241
+        },
+        {
+          "northing_m": 531.7,
+          "deformation_rate_mm_year": 27.24,
+          "coherence_gradient": 0.264
+        },
+        {
+          "northing_m": 541.7,
+          "deformation_rate_mm_year": 26.87,
+          "coherence_gradient": 0.292
+        },
+        {
+          "northing_m": 551.7,
+          "deformation_rate_mm_year": 26.45,
+          "coherence_gradient": 0.324
+        },
+        {
+          "northing_m": 561.8,
+          "deformation_rate_mm_year": 25.98,
+          "coherence_gradient": 0.359
+        },
+        {
+          "northing_m": 571.8,
+          "deformation_rate_mm_year": 25.46,
+          "coherence_gradient": 0.4
+        },
+        {
+          "northing_m": 581.8,
+          "deformation_rate_mm_year": 24.89,
+          "coherence_gradient": 0.445
+        },
+        {
+          "northing_m": 591.8,
+          "deformation_rate_mm_year": 24.26,
+          "coherence_gradient": 0.493
+        },
+        {
+          "northing_m": 601.9,
+          "deformation_rate_mm_year": 23.59,
+          "coherence_gradient": 0.54
+        },
+        {
+          "northing_m": 611.9,
+          "deformation_rate_mm_year": 22.88,
+          "coherence_gradient": 0.584
+        },
+        {
+          "northing_m": 621.9,
+          "deformation_rate_mm_year": 22.13,
+          "coherence_gradient": 0.625
+        },
+        {
+          "northing_m": 632.0,
+          "deformation_rate_mm_year": 21.36,
+          "coherence_gradient": 0.665
+        },
+        {
+          "northing_m": 642.0,
+          "deformation_rate_mm_year": 20.56,
+          "coherence_gradient": 0.702
+        },
+        {
+          "northing_m": 652.0,
+          "deformation_rate_mm_year": 19.74,
+          "coherence_gradient": 0.736
+        },
+        {
+          "northing_m": 662.1,
+          "deformation_rate_mm_year": 18.91,
+          "coherence_gradient": 0.765
+        },
+        {
+          "northing_m": 672.1,
+          "deformation_rate_mm_year": 18.06,
+          "coherence_gradient": 0.788
+        },
+        {
+          "northing_m": 682.1,
+          "deformation_rate_mm_year": 17.21,
+          "coherence_gradient": 0.807
+        },
+        {
+          "northing_m": 692.2,
+          "deformation_rate_mm_year": 16.36,
+          "coherence_gradient": 0.821
+        },
+        {
+          "northing_m": 702.2,
+          "deformation_rate_mm_year": 15.51,
+          "coherence_gradient": 0.832
+        },
+        {
+          "northing_m": 712.2,
+          "deformation_rate_mm_year": 14.67,
+          "coherence_gradient": 0.839
+        },
+        {
+          "northing_m": 722.3,
+          "deformation_rate_mm_year": 13.83,
+          "coherence_gradient": 0.84
+        },
+        {
+          "northing_m": 732.3,
+          "deformation_rate_mm_year": 13.0,
+          "coherence_gradient": 0.833
+        },
+        {
+          "northing_m": 742.3,
+          "deformation_rate_mm_year": 12.19,
+          "coherence_gradient": 0.818
+        },
+        {
+          "northing_m": 752.4,
+          "deformation_rate_mm_year": 11.4,
+          "coherence_gradient": 0.797
+        },
+        {
+          "northing_m": 762.4,
+          "deformation_rate_mm_year": 10.64,
+          "coherence_gradient": 0.771
+        },
+        {
+          "northing_m": 772.4,
+          "deformation_rate_mm_year": 9.91,
+          "coherence_gradient": 0.741
+        },
+        {
+          "northing_m": 782.4,
+          "deformation_rate_mm_year": 9.2,
+          "coherence_gradient": 0.699
+        },
+        {
+          "northing_m": 792.5,
+          "deformation_rate_mm_year": 8.53,
+          "coherence_gradient": 0.572
+        }
+      ],
+      "strike_transect": [
+        {
+          "easting_m": 0.0,
+          "deformation_rate_mm_year": 0.66,
+          "coherence_gradient": 0.057
+        },
+        {
+          "easting_m": 10.0,
+          "deformation_rate_mm_year": 0.73,
+          "coherence_gradient": 0.081
+        },
+        {
+          "easting_m": 20.1,
+          "deformation_rate_mm_year": 0.84,
+          "coherence_gradient": 0.102
+        },
+        {
+          "easting_m": 30.1,
+          "deformation_rate_mm_year": 0.97,
+          "coherence_gradient": 0.115
+        },
+        {
+          "easting_m": 40.1,
+          "deformation_rate_mm_year": 1.11,
+          "coherence_gradient": 0.129
+        },
+        {
+          "easting_m": 50.1,
+          "deformation_rate_mm_year": 1.26,
+          "coherence_gradient": 0.145
+        },
+        {
+          "easting_m": 60.2,
+          "deformation_rate_mm_year": 1.43,
+          "coherence_gradient": 0.162
+        },
+        {
+          "easting_m": 70.2,
+          "deformation_rate_mm_year": 1.63,
+          "coherence_gradient": 0.18
+        },
+        {
+          "easting_m": 80.2,
+          "deformation_rate_mm_year": 1.84,
+          "coherence_gradient": 0.2
+        },
+        {
+          "easting_m": 90.2,
+          "deformation_rate_mm_year": 2.08,
+          "coherence_gradient": 0.221
+        },
+        {
+          "easting_m": 100.3,
+          "deformation_rate_mm_year": 2.34,
+          "coherence_gradient": 0.244
+        },
+        {
+          "easting_m": 110.3,
+          "deformation_rate_mm_year": 2.63,
+          "coherence_gradient": 0.269
+        },
+        {
+          "easting_m": 120.3,
+          "deformation_rate_mm_year": 2.94,
+          "coherence_gradient": 0.296
+        },
+        {
+          "easting_m": 130.3,
+          "deformation_rate_mm_year": 3.28,
+          "coherence_gradient": 0.325
+        },
+        {
+          "easting_m": 140.4,
+          "deformation_rate_mm_year": 3.66,
+          "coherence_gradient": 0.357
+        },
+        {
+          "easting_m": 150.4,
+          "deformation_rate_mm_year": 4.07,
+          "coherence_gradient": 0.39
+        },
+        {
+          "easting_m": 160.4,
+          "deformation_rate_mm_year": 4.51,
+          "coherence_gradient": 0.425
+        },
+        {
+          "easting_m": 170.4,
+          "deformation_rate_mm_year": 4.98,
+          "coherence_gradient": 0.461
+        },
+        {
+          "easting_m": 180.5,
+          "deformation_rate_mm_year": 5.49,
+          "coherence_gradient": 0.498
+        },
+        {
+          "easting_m": 190.5,
+          "deformation_rate_mm_year": 6.04,
+          "coherence_gradient": 0.536
+        },
+        {
+          "easting_m": 200.5,
+          "deformation_rate_mm_year": 6.62,
+          "coherence_gradient": 0.575
+        },
+        {
+          "easting_m": 210.5,
+          "deformation_rate_mm_year": 7.23,
+          "coherence_gradient": 0.614
+        },
+        {
+          "easting_m": 220.6,
+          "deformation_rate_mm_year": 7.88,
+          "coherence_gradient": 0.655
+        },
+        {
+          "easting_m": 230.6,
+          "deformation_rate_mm_year": 8.57,
+          "coherence_gradient": 0.695
+        },
+        {
+          "easting_m": 240.6,
+          "deformation_rate_mm_year": 9.29,
+          "coherence_gradient": 0.733
+        },
+        {
+          "easting_m": 250.6,
+          "deformation_rate_mm_year": 10.05,
+          "coherence_gradient": 0.766
+        },
+        {
+          "easting_m": 260.7,
+          "deformation_rate_mm_year": 10.84,
+          "coherence_gradient": 0.794
+        },
+        {
+          "easting_m": 270.7,
+          "deformation_rate_mm_year": 11.65,
+          "coherence_gradient": 0.818
+        },
+        {
+          "easting_m": 280.7,
+          "deformation_rate_mm_year": 12.49,
+          "coherence_gradient": 0.837
+        },
+        {
+          "easting_m": 290.7,
+          "deformation_rate_mm_year": 13.35,
+          "coherence_gradient": 0.852
+        },
+        {
+          "easting_m": 300.8,
+          "deformation_rate_mm_year": 14.23,
+          "coherence_gradient": 0.861
+        },
+        {
+          "easting_m": 310.8,
+          "deformation_rate_mm_year": 15.12,
+          "coherence_gradient": 0.863
+        },
+        {
+          "easting_m": 320.8,
+          "deformation_rate_mm_year": 16.02,
+          "coherence_gradient": 0.858
+        },
+        {
+          "easting_m": 330.8,
+          "deformation_rate_mm_year": 16.93,
+          "coherence_gradient": 0.849
+        },
+        {
+          "easting_m": 340.9,
+          "deformation_rate_mm_year": 17.84,
+          "coherence_gradient": 0.835
+        },
+        {
+          "easting_m": 350.9,
+          "deformation_rate_mm_year": 18.75,
+          "coherence_gradient": 0.815
+        },
+        {
+          "easting_m": 360.9,
+          "deformation_rate_mm_year": 19.65,
+          "coherence_gradient": 0.787
+        },
+        {
+          "easting_m": 370.9,
+          "deformation_rate_mm_year": 20.54,
+          "coherence_gradient": 0.751
+        },
+        {
+          "easting_m": 381.0,
+          "deformation_rate_mm_year": 21.4,
+          "coherence_gradient": 0.708
+        },
+        {
+          "easting_m": 391.0,
+          "deformation_rate_mm_year": 22.23,
+          "coherence_gradient": 0.66
+        },
+        {
+          "easting_m": 401.0,
+          "deformation_rate_mm_year": 23.01,
+          "coherence_gradient": 0.609
+        },
+        {
+          "easting_m": 411.0,
+          "deformation_rate_mm_year": 23.75,
+          "coherence_gradient": 0.557
+        },
+        {
+          "easting_m": 421.1,
+          "deformation_rate_mm_year": 24.45,
+          "coherence_gradient": 0.506
+        },
+        {
+          "easting_m": 431.1,
+          "deformation_rate_mm_year": 25.1,
+          "coherence_gradient": 0.457
+        },
+        {
+          "easting_m": 441.1,
+          "deformation_rate_mm_year": 25.69,
+          "coherence_gradient": 0.409
+        },
+        {
+          "easting_m": 451.1,
+          "deformation_rate_mm_year": 26.24,
+          "coherence_gradient": 0.363
+        },
+        {
+          "easting_m": 461.2,
+          "deformation_rate_mm_year": 26.72,
+          "coherence_gradient": 0.321
+        },
+        {
+          "easting_m": 471.2,
+          "deformation_rate_mm_year": 27.13,
+          "coherence_gradient": 0.284
+        },
+        {
+          "easting_m": 481.2,
+          "deformation_rate_mm_year": 27.48,
+          "coherence_gradient": 0.254
+        },
+        {
+          "easting_m": 491.2,
+          "deformation_rate_mm_year": 27.75,
+          "coherence_gradient": 0.23
+        },
+        {
+          "easting_m": 501.3,
+          "deformation_rate_mm_year": 27.95,
+          "coherence_gradient": 0.214
+        },
+        {
+          "easting_m": 511.3,
+          "deformation_rate_mm_year": 28.09,
+          "coherence_gradient": 0.202
+        },
+        {
+          "easting_m": 521.3,
+          "deformation_rate_mm_year": 28.16,
+          "coherence_gradient": 0.193
+        },
+        {
+          "easting_m": 531.3,
+          "deformation_rate_mm_year": 28.19,
+          "coherence_gradient": 0.189
+        },
+        {
+          "easting_m": 541.4,
+          "deformation_rate_mm_year": 28.17,
+          "coherence_gradient": 0.192
+        },
+        {
+          "easting_m": 551.4,
+          "deformation_rate_mm_year": 28.09,
+          "coherence_gradient": 0.202
+        },
+        {
+          "easting_m": 561.4,
+          "deformation_rate_mm_year": 27.94,
+          "coherence_gradient": 0.215
+        },
+        {
+          "easting_m": 571.4,
+          "deformation_rate_mm_year": 27.72,
+          "coherence_gradient": 0.234
+        },
+        {
+          "easting_m": 581.5,
+          "deformation_rate_mm_year": 27.42,
+          "coherence_gradient": 0.26
+        },
+        {
+          "easting_m": 591.5,
+          "deformation_rate_mm_year": 27.04,
+          "coherence_gradient": 0.295
+        },
+        {
+          "easting_m": 601.5,
+          "deformation_rate_mm_year": 26.59,
+          "coherence_gradient": 0.337
+        },
+        {
+          "easting_m": 611.5,
+          "deformation_rate_mm_year": 26.06,
+          "coherence_gradient": 0.385
+        },
+        {
+          "easting_m": 621.6,
+          "deformation_rate_mm_year": 25.46,
+          "coherence_gradient": 0.44
+        },
+        {
+          "easting_m": 631.6,
+          "deformation_rate_mm_year": 24.78,
+          "coherence_gradient": 0.503
+        },
+        {
+          "easting_m": 641.6,
+          "deformation_rate_mm_year": 24.04,
+          "coherence_gradient": 0.57
+        },
+        {
+          "easting_m": 651.6,
+          "deformation_rate_mm_year": 23.22,
+          "coherence_gradient": 0.637
+        },
+        {
+          "easting_m": 661.7,
+          "deformation_rate_mm_year": 22.34,
+          "coherence_gradient": 0.698
+        },
+        {
+          "easting_m": 671.7,
+          "deformation_rate_mm_year": 21.41,
+          "coherence_gradient": 0.753
+        },
+        {
+          "easting_m": 681.7,
+          "deformation_rate_mm_year": 20.44,
+          "coherence_gradient": 0.802
+        },
+        {
+          "easting_m": 691.7,
+          "deformation_rate_mm_year": 19.43,
+          "coherence_gradient": 0.845
+        },
+        {
+          "easting_m": 701.8,
+          "deformation_rate_mm_year": 18.38,
+          "coherence_gradient": 0.879
+        },
+        {
+          "easting_m": 711.8,
+          "deformation_rate_mm_year": 17.32,
+          "coherence_gradient": 0.902
+        },
+        {
+          "easting_m": 721.8,
+          "deformation_rate_mm_year": 16.24,
+          "coherence_gradient": 0.916
+        },
+        {
+          "easting_m": 731.8,
+          "deformation_rate_mm_year": 15.15,
+          "coherence_gradient": 0.921
+        },
+        {
+          "easting_m": 741.9,
+          "deformation_rate_mm_year": 14.07,
+          "coherence_gradient": 0.916
+        },
+        {
+          "easting_m": 751.9,
+          "deformation_rate_mm_year": 13.01,
+          "coherence_gradient": 0.904
+        },
+        {
+          "easting_m": 761.9,
+          "deformation_rate_mm_year": 11.96,
+          "coherence_gradient": 0.885
+        },
+        {
+          "easting_m": 771.9,
+          "deformation_rate_mm_year": 10.94,
+          "coherence_gradient": 0.86
+        },
+        {
+          "easting_m": 782.0,
+          "deformation_rate_mm_year": 9.96,
+          "coherence_gradient": 0.829
+        },
+        {
+          "easting_m": 792.0,
+          "deformation_rate_mm_year": 9.01,
+          "coherence_gradient": 0.793
+        },
+        {
+          "easting_m": 802.0,
+          "deformation_rate_mm_year": 8.11,
+          "coherence_gradient": 0.752
+        },
+        {
+          "easting_m": 812.0,
+          "deformation_rate_mm_year": 7.26,
+          "coherence_gradient": 0.708
+        },
+        {
+          "easting_m": 822.1,
+          "deformation_rate_mm_year": 6.46,
+          "coherence_gradient": 0.662
+        },
+        {
+          "easting_m": 832.1,
+          "deformation_rate_mm_year": 5.71,
+          "coherence_gradient": 0.616
+        },
+        {
+          "easting_m": 842.1,
+          "deformation_rate_mm_year": 5.02,
+          "coherence_gradient": 0.569
+        },
+        {
+          "easting_m": 852.1,
+          "deformation_rate_mm_year": 4.39,
+          "coherence_gradient": 0.521
+        },
+        {
+          "easting_m": 862.2,
+          "deformation_rate_mm_year": 3.81,
+          "coherence_gradient": 0.473
+        },
+        {
+          "easting_m": 872.2,
+          "deformation_rate_mm_year": 3.28,
+          "coherence_gradient": 0.426
+        },
+        {
+          "easting_m": 882.2,
+          "deformation_rate_mm_year": 2.81,
+          "coherence_gradient": 0.381
+        },
+        {
+          "easting_m": 892.2,
+          "deformation_rate_mm_year": 2.4,
+          "coherence_gradient": 0.338
+        },
+        {
+          "easting_m": 902.3,
+          "deformation_rate_mm_year": 2.03,
+          "coherence_gradient": 0.298
+        },
+        {
+          "easting_m": 912.3,
+          "deformation_rate_mm_year": 1.7,
+          "coherence_gradient": 0.261
+        },
+        {
+          "easting_m": 922.3,
+          "deformation_rate_mm_year": 1.42,
+          "coherence_gradient": 0.226
+        },
+        {
+          "easting_m": 932.3,
+          "deformation_rate_mm_year": 1.17,
+          "coherence_gradient": 0.195
+        },
+        {
+          "easting_m": 942.4,
+          "deformation_rate_mm_year": 0.96,
+          "coherence_gradient": 0.166
+        },
+        {
+          "easting_m": 952.4,
+          "deformation_rate_mm_year": 0.78,
+          "coherence_gradient": 0.141
+        },
+        {
+          "easting_m": 962.4,
+          "deformation_rate_mm_year": 0.63,
+          "coherence_gradient": 0.118
+        },
+        {
+          "easting_m": 972.4,
+          "deformation_rate_mm_year": 0.51,
+          "coherence_gradient": 0.098
+        },
+        {
+          "easting_m": 982.5,
+          "deformation_rate_mm_year": 0.4,
+          "coherence_gradient": 0.08
+        },
+        {
+          "easting_m": 992.5,
+          "deformation_rate_mm_year": 0.32,
+          "coherence_gradient": 0.056
+        }
+      ]
+    },
+    "zone_b": {
+      "zone_id": "zone_b",
+      "zone_title": "Zone B (Panel 6 Transition)",
+      "max_subsidence_rate_mm_year": 15.6,
+      "mean_subsidence_rate_mm_year": 3.04,
+      "peak_coherence_gradient": 0.738,
+      "dip_transect": [
+        {
+          "northing_m": 0.0,
+          "deformation_rate_mm_year": 0.25,
+          "coherence_gradient": 0.036
+        },
+        {
+          "northing_m": 10.0,
+          "deformation_rate_mm_year": 0.28,
+          "coherence_gradient": 0.052
+        },
+        {
+          "northing_m": 20.1,
+          "deformation_rate_mm_year": 0.33,
+          "coherence_gradient": 0.066
+        },
+        {
+          "northing_m": 30.1,
+          "deformation_rate_mm_year": 0.4,
+          "coherence_gradient": 0.077
+        },
+        {
+          "northing_m": 40.1,
+          "deformation_rate_mm_year": 0.47,
+          "coherence_gradient": 0.089
+        },
+        {
+          "northing_m": 50.2,
+          "deformation_rate_mm_year": 0.55,
+          "coherence_gradient": 0.102
+        },
+        {
+          "northing_m": 60.2,
+          "deformation_rate_mm_year": 0.65,
+          "coherence_gradient": 0.116
+        },
+        {
+          "northing_m": 70.2,
+          "deformation_rate_mm_year": 0.75,
+          "coherence_gradient": 0.133
+        },
+        {
+          "northing_m": 80.3,
+          "deformation_rate_mm_year": 0.88,
+          "coherence_gradient": 0.151
+        },
+        {
+          "northing_m": 90.3,
+          "deformation_rate_mm_year": 1.02,
+          "coherence_gradient": 0.17
+        },
+        {
+          "northing_m": 100.3,
+          "deformation_rate_mm_year": 1.18,
+          "coherence_gradient": 0.192
+        },
+        {
+          "northing_m": 110.3,
+          "deformation_rate_mm_year": 1.35,
+          "coherence_gradient": 0.214
+        },
+        {
+          "northing_m": 120.4,
+          "deformation_rate_mm_year": 1.55,
+          "coherence_gradient": 0.239
+        },
+        {
+          "northing_m": 130.4,
+          "deformation_rate_mm_year": 1.77,
+          "coherence_gradient": 0.265
+        },
+        {
+          "northing_m": 140.4,
+          "deformation_rate_mm_year": 2.01,
+          "coherence_gradient": 0.291
+        },
+        {
+          "northing_m": 150.5,
+          "deformation_rate_mm_year": 2.28,
+          "coherence_gradient": 0.319
+        },
+        {
+          "northing_m": 160.5,
+          "deformation_rate_mm_year": 2.57,
+          "coherence_gradient": 0.349
+        },
+        {
+          "northing_m": 170.5,
+          "deformation_rate_mm_year": 2.88,
+          "coherence_gradient": 0.38
+        },
+        {
+          "northing_m": 180.6,
+          "deformation_rate_mm_year": 3.23,
+          "coherence_gradient": 0.412
+        },
+        {
+          "northing_m": 190.6,
+          "deformation_rate_mm_year": 3.6,
+          "coherence_gradient": 0.443
+        },
+        {
+          "northing_m": 200.6,
+          "deformation_rate_mm_year": 3.99,
+          "coherence_gradient": 0.473
+        },
+        {
+          "northing_m": 210.7,
+          "deformation_rate_mm_year": 4.42,
+          "coherence_gradient": 0.503
+        },
+        {
+          "northing_m": 220.7,
+          "deformation_rate_mm_year": 4.87,
+          "coherence_gradient": 0.532
+        },
+        {
+          "northing_m": 230.7,
+          "deformation_rate_mm_year": 5.34,
+          "coherence_gradient": 0.561
+        },
+        {
+          "northing_m": 240.8,
+          "deformation_rate_mm_year": 5.84,
+          "coherence_gradient": 0.588
+        },
+        {
+          "northing_m": 250.8,
+          "deformation_rate_mm_year": 6.36,
+          "coherence_gradient": 0.613
+        },
+        {
+          "northing_m": 260.8,
+          "deformation_rate_mm_year": 6.89,
+          "coherence_gradient": 0.634
+        },
+        {
+          "northing_m": 270.8,
+          "deformation_rate_mm_year": 7.45,
+          "coherence_gradient": 0.653
+        },
+        {
+          "northing_m": 280.9,
+          "deformation_rate_mm_year": 8.02,
+          "coherence_gradient": 0.667
+        },
+        {
+          "northing_m": 290.9,
+          "deformation_rate_mm_year": 8.59,
+          "coherence_gradient": 0.675
+        },
+        {
+          "northing_m": 300.9,
+          "deformation_rate_mm_year": 9.17,
+          "coherence_gradient": 0.678
+        },
+        {
+          "northing_m": 311.0,
+          "deformation_rate_mm_year": 9.75,
+          "coherence_gradient": 0.676
+        },
+        {
+          "northing_m": 321.0,
+          "deformation_rate_mm_year": 10.32,
+          "coherence_gradient": 0.672
+        },
+        {
+          "northing_m": 331.0,
+          "deformation_rate_mm_year": 10.89,
+          "coherence_gradient": 0.664
+        },
+        {
+          "northing_m": 341.1,
+          "deformation_rate_mm_year": 11.45,
+          "coherence_gradient": 0.651
+        },
+        {
+          "northing_m": 351.1,
+          "deformation_rate_mm_year": 11.99,
+          "coherence_gradient": 0.631
+        },
+        {
+          "northing_m": 361.1,
+          "deformation_rate_mm_year": 12.51,
+          "coherence_gradient": 0.606
+        },
+        {
+          "northing_m": 371.2,
+          "deformation_rate_mm_year": 13.01,
+          "coherence_gradient": 0.577
+        },
+        {
+          "northing_m": 381.2,
+          "deformation_rate_mm_year": 13.47,
+          "coherence_gradient": 0.541
+        },
+        {
+          "northing_m": 391.2,
+          "deformation_rate_mm_year": 13.89,
+          "coherence_gradient": 0.495
+        },
+        {
+          "northing_m": 401.3,
+          "deformation_rate_mm_year": 14.27,
+          "coherence_gradient": 0.444
+        },
+        {
+          "northing_m": 411.3,
+          "deformation_rate_mm_year": 14.6,
+          "coherence_gradient": 0.394
+        },
+        {
+          "northing_m": 421.3,
+          "deformation_rate_mm_year": 14.88,
+          "coherence_gradient": 0.345
+        },
+        {
+          "northing_m": 431.3,
+          "deformation_rate_mm_year": 15.11,
+          "coherence_gradient": 0.295
+        },
+        {
+          "northing_m": 441.4,
+          "deformation_rate_mm_year": 15.3,
+          "coherence_gradient": 0.242
+        },
+        {
+          "northing_m": 451.4,
+          "deformation_rate_mm_year": 15.44,
+          "coherence_gradient": 0.185
+        },
+        {
+          "northing_m": 461.4,
+          "deformation_rate_mm_year": 15.5,
+          "coherence_gradient": 0.139
+        },
+        {
+          "northing_m": 471.5,
+          "deformation_rate_mm_year": 15.5,
+          "coherence_gradient": 0.128
+        },
+        {
+          "northing_m": 481.5,
+          "deformation_rate_mm_year": 15.42,
+          "coherence_gradient": 0.153
+        },
+        {
+          "northing_m": 491.5,
+          "deformation_rate_mm_year": 15.28,
+          "coherence_gradient": 0.194
+        },
+        {
+          "northing_m": 501.6,
+          "deformation_rate_mm_year": 15.1,
+          "coherence_gradient": 0.24
+        },
+        {
+          "northing_m": 511.6,
+          "deformation_rate_mm_year": 14.86,
+          "coherence_gradient": 0.288
+        },
+        {
+          "northing_m": 521.6,
+          "deformation_rate_mm_year": 14.58,
+          "coherence_gradient": 0.34
+        },
+        {
+          "northing_m": 531.7,
+          "deformation_rate_mm_year": 14.24,
+          "coherence_gradient": 0.395
+        },
+        {
+          "northing_m": 541.7,
+          "deformation_rate_mm_year": 13.85,
+          "coherence_gradient": 0.447
+        },
+        {
+          "northing_m": 551.7,
+          "deformation_rate_mm_year": 13.42,
+          "coherence_gradient": 0.492
+        },
+        {
+          "northing_m": 561.8,
+          "deformation_rate_mm_year": 12.95,
+          "coherence_gradient": 0.531
+        },
+        {
+          "northing_m": 571.8,
+          "deformation_rate_mm_year": 12.44,
+          "coherence_gradient": 0.565
+        },
+        {
+          "northing_m": 581.8,
+          "deformation_rate_mm_year": 11.91,
+          "coherence_gradient": 0.592
+        },
+        {
+          "northing_m": 591.8,
+          "deformation_rate_mm_year": 11.36,
+          "coherence_gradient": 0.612
+        },
+        {
+          "northing_m": 601.9,
+          "deformation_rate_mm_year": 10.79,
+          "coherence_gradient": 0.627
+        },
+        {
+          "northing_m": 611.9,
+          "deformation_rate_mm_year": 10.22,
+          "coherence_gradient": 0.638
+        },
+        {
+          "northing_m": 621.9,
+          "deformation_rate_mm_year": 9.63,
+          "coherence_gradient": 0.644
+        },
+        {
+          "northing_m": 632.0,
+          "deformation_rate_mm_year": 9.04,
+          "coherence_gradient": 0.645
+        },
+        {
+          "northing_m": 642.0,
+          "deformation_rate_mm_year": 8.46,
+          "coherence_gradient": 0.64
+        },
+        {
+          "northing_m": 652.0,
+          "deformation_rate_mm_year": 7.88,
+          "coherence_gradient": 0.629
+        },
+        {
+          "northing_m": 662.1,
+          "deformation_rate_mm_year": 7.31,
+          "coherence_gradient": 0.614
+        },
+        {
+          "northing_m": 672.1,
+          "deformation_rate_mm_year": 6.77,
+          "coherence_gradient": 0.596
+        },
+        {
+          "northing_m": 682.1,
+          "deformation_rate_mm_year": 6.24,
+          "coherence_gradient": 0.575
+        },
+        {
+          "northing_m": 692.2,
+          "deformation_rate_mm_year": 5.73,
+          "coherence_gradient": 0.555
+        },
+        {
+          "northing_m": 702.2,
+          "deformation_rate_mm_year": 5.23,
+          "coherence_gradient": 0.533
+        },
+        {
+          "northing_m": 712.2,
+          "deformation_rate_mm_year": 4.76,
+          "coherence_gradient": 0.508
+        },
+        {
+          "northing_m": 722.3,
+          "deformation_rate_mm_year": 4.32,
+          "coherence_gradient": 0.479
+        },
+        {
+          "northing_m": 732.3,
+          "deformation_rate_mm_year": 3.9,
+          "coherence_gradient": 0.449
+        },
+        {
+          "northing_m": 742.3,
+          "deformation_rate_mm_year": 3.51,
+          "coherence_gradient": 0.418
+        },
+        {
+          "northing_m": 752.4,
+          "deformation_rate_mm_year": 3.14,
+          "coherence_gradient": 0.388
+        },
+        {
+          "northing_m": 762.4,
+          "deformation_rate_mm_year": 2.81,
+          "coherence_gradient": 0.358
+        },
+        {
+          "northing_m": 772.4,
+          "deformation_rate_mm_year": 2.5,
+          "coherence_gradient": 0.33
+        },
+        {
+          "northing_m": 782.4,
+          "deformation_rate_mm_year": 2.21,
+          "coherence_gradient": 0.298
+        },
+        {
+          "northing_m": 792.5,
+          "deformation_rate_mm_year": 1.96,
+          "coherence_gradient": 0.231
+        }
+      ],
+      "strike_transect": [
+        {
+          "easting_m": 0.0,
+          "deformation_rate_mm_year": 0.03,
+          "coherence_gradient": 0.005
+        },
+        {
+          "easting_m": 10.0,
+          "deformation_rate_mm_year": 0.03,
+          "coherence_gradient": 0.008
+        },
+        {
+          "easting_m": 20.1,
+          "deformation_rate_mm_year": 0.04,
+          "coherence_gradient": 0.01
+        },
+        {
+          "easting_m": 30.1,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.013
+        },
+        {
+          "easting_m": 40.1,
+          "deformation_rate_mm_year": 0.06,
+          "coherence_gradient": 0.015
+        },
+        {
+          "easting_m": 50.1,
+          "deformation_rate_mm_year": 0.08,
+          "coherence_gradient": 0.019
+        },
+        {
+          "easting_m": 60.2,
+          "deformation_rate_mm_year": 0.1,
+          "coherence_gradient": 0.023
+        },
+        {
+          "easting_m": 70.2,
+          "deformation_rate_mm_year": 0.12,
+          "coherence_gradient": 0.027
+        },
+        {
+          "easting_m": 80.2,
+          "deformation_rate_mm_year": 0.14,
+          "coherence_gradient": 0.033
+        },
+        {
+          "easting_m": 90.2,
+          "deformation_rate_mm_year": 0.18,
+          "coherence_gradient": 0.039
+        },
+        {
+          "easting_m": 100.3,
+          "deformation_rate_mm_year": 0.21,
+          "coherence_gradient": 0.046
+        },
+        {
+          "easting_m": 110.3,
+          "deformation_rate_mm_year": 0.26,
+          "coherence_gradient": 0.054
+        },
+        {
+          "easting_m": 120.3,
+          "deformation_rate_mm_year": 0.31,
+          "coherence_gradient": 0.064
+        },
+        {
+          "easting_m": 130.3,
+          "deformation_rate_mm_year": 0.37,
+          "coherence_gradient": 0.075
+        },
+        {
+          "easting_m": 140.4,
+          "deformation_rate_mm_year": 0.44,
+          "coherence_gradient": 0.087
+        },
+        {
+          "easting_m": 150.4,
+          "deformation_rate_mm_year": 0.53,
+          "coherence_gradient": 0.101
+        },
+        {
+          "easting_m": 160.4,
+          "deformation_rate_mm_year": 0.62,
+          "coherence_gradient": 0.116
+        },
+        {
+          "easting_m": 170.4,
+          "deformation_rate_mm_year": 0.74,
+          "coherence_gradient": 0.134
+        },
+        {
+          "easting_m": 180.5,
+          "deformation_rate_mm_year": 0.86,
+          "coherence_gradient": 0.153
+        },
+        {
+          "easting_m": 190.5,
+          "deformation_rate_mm_year": 1.01,
+          "coherence_gradient": 0.173
+        },
+        {
+          "easting_m": 200.5,
+          "deformation_rate_mm_year": 1.17,
+          "coherence_gradient": 0.196
+        },
+        {
+          "easting_m": 210.5,
+          "deformation_rate_mm_year": 1.36,
+          "coherence_gradient": 0.22
+        },
+        {
+          "easting_m": 220.6,
+          "deformation_rate_mm_year": 1.57,
+          "coherence_gradient": 0.247
+        },
+        {
+          "easting_m": 230.6,
+          "deformation_rate_mm_year": 1.8,
+          "coherence_gradient": 0.275
+        },
+        {
+          "easting_m": 240.6,
+          "deformation_rate_mm_year": 2.06,
+          "coherence_gradient": 0.303
+        },
+        {
+          "easting_m": 250.6,
+          "deformation_rate_mm_year": 2.34,
+          "coherence_gradient": 0.333
+        },
+        {
+          "easting_m": 260.7,
+          "deformation_rate_mm_year": 2.65,
+          "coherence_gradient": 0.363
+        },
+        {
+          "easting_m": 270.7,
+          "deformation_rate_mm_year": 2.99,
+          "coherence_gradient": 0.395
+        },
+        {
+          "easting_m": 280.7,
+          "deformation_rate_mm_year": 3.36,
+          "coherence_gradient": 0.429
+        },
+        {
+          "easting_m": 290.7,
+          "deformation_rate_mm_year": 3.76,
+          "coherence_gradient": 0.464
+        },
+        {
+          "easting_m": 300.8,
+          "deformation_rate_mm_year": 4.19,
+          "coherence_gradient": 0.498
+        },
+        {
+          "easting_m": 310.8,
+          "deformation_rate_mm_year": 4.65,
+          "coherence_gradient": 0.53
+        },
+        {
+          "easting_m": 320.8,
+          "deformation_rate_mm_year": 5.14,
+          "coherence_gradient": 0.561
+        },
+        {
+          "easting_m": 330.8,
+          "deformation_rate_mm_year": 5.65,
+          "coherence_gradient": 0.59
+        },
+        {
+          "easting_m": 340.9,
+          "deformation_rate_mm_year": 6.19,
+          "coherence_gradient": 0.615
+        },
+        {
+          "easting_m": 350.9,
+          "deformation_rate_mm_year": 6.75,
+          "coherence_gradient": 0.636
+        },
+        {
+          "easting_m": 360.9,
+          "deformation_rate_mm_year": 7.33,
+          "coherence_gradient": 0.655
+        },
+        {
+          "easting_m": 370.9,
+          "deformation_rate_mm_year": 7.92,
+          "coherence_gradient": 0.672
+        },
+        {
+          "easting_m": 381.0,
+          "deformation_rate_mm_year": 8.53,
+          "coherence_gradient": 0.683
+        },
+        {
+          "easting_m": 391.0,
+          "deformation_rate_mm_year": 9.15,
+          "coherence_gradient": 0.688
+        },
+        {
+          "easting_m": 401.0,
+          "deformation_rate_mm_year": 9.77,
+          "coherence_gradient": 0.688
+        },
+        {
+          "easting_m": 411.0,
+          "deformation_rate_mm_year": 10.38,
+          "coherence_gradient": 0.682
+        },
+        {
+          "easting_m": 421.1,
+          "deformation_rate_mm_year": 10.99,
+          "coherence_gradient": 0.669
+        },
+        {
+          "easting_m": 431.1,
+          "deformation_rate_mm_year": 11.58,
+          "coherence_gradient": 0.651
+        },
+        {
+          "easting_m": 441.1,
+          "deformation_rate_mm_year": 12.16,
+          "coherence_gradient": 0.626
+        },
+        {
+          "easting_m": 451.1,
+          "deformation_rate_mm_year": 12.7,
+          "coherence_gradient": 0.591
+        },
+        {
+          "easting_m": 461.2,
+          "deformation_rate_mm_year": 13.22,
+          "coherence_gradient": 0.548
+        },
+        {
+          "easting_m": 471.2,
+          "deformation_rate_mm_year": 13.69,
+          "coherence_gradient": 0.501
+        },
+        {
+          "easting_m": 481.2,
+          "deformation_rate_mm_year": 14.12,
+          "coherence_gradient": 0.457
+        },
+        {
+          "easting_m": 491.2,
+          "deformation_rate_mm_year": 14.51,
+          "coherence_gradient": 0.41
+        },
+        {
+          "easting_m": 501.3,
+          "deformation_rate_mm_year": 14.85,
+          "coherence_gradient": 0.353
+        },
+        {
+          "easting_m": 511.3,
+          "deformation_rate_mm_year": 15.14,
+          "coherence_gradient": 0.283
+        },
+        {
+          "easting_m": 521.3,
+          "deformation_rate_mm_year": 15.36,
+          "coherence_gradient": 0.206
+        },
+        {
+          "easting_m": 531.3,
+          "deformation_rate_mm_year": 15.51,
+          "coherence_gradient": 0.132
+        },
+        {
+          "easting_m": 541.4,
+          "deformation_rate_mm_year": 15.58,
+          "coherence_gradient": 0.074
+        },
+        {
+          "easting_m": 551.4,
+          "deformation_rate_mm_year": 15.59,
+          "coherence_gradient": 0.065
+        },
+        {
+          "easting_m": 561.4,
+          "deformation_rate_mm_year": 15.54,
+          "coherence_gradient": 0.11
+        },
+        {
+          "easting_m": 571.4,
+          "deformation_rate_mm_year": 15.43,
+          "coherence_gradient": 0.176
+        },
+        {
+          "easting_m": 581.5,
+          "deformation_rate_mm_year": 15.25,
+          "coherence_gradient": 0.246
+        },
+        {
+          "easting_m": 591.5,
+          "deformation_rate_mm_year": 15.0,
+          "coherence_gradient": 0.318
+        },
+        {
+          "easting_m": 601.5,
+          "deformation_rate_mm_year": 14.69,
+          "coherence_gradient": 0.386
+        },
+        {
+          "easting_m": 611.5,
+          "deformation_rate_mm_year": 14.33,
+          "coherence_gradient": 0.444
+        },
+        {
+          "easting_m": 621.6,
+          "deformation_rate_mm_year": 13.91,
+          "coherence_gradient": 0.493
+        },
+        {
+          "easting_m": 631.6,
+          "deformation_rate_mm_year": 13.46,
+          "coherence_gradient": 0.534
+        },
+        {
+          "easting_m": 641.6,
+          "deformation_rate_mm_year": 12.97,
+          "coherence_gradient": 0.573
+        },
+        {
+          "easting_m": 651.6,
+          "deformation_rate_mm_year": 12.44,
+          "coherence_gradient": 0.609
+        },
+        {
+          "easting_m": 661.7,
+          "deformation_rate_mm_year": 11.89,
+          "coherence_gradient": 0.64
+        },
+        {
+          "easting_m": 671.7,
+          "deformation_rate_mm_year": 11.31,
+          "coherence_gradient": 0.666
+        },
+        {
+          "easting_m": 681.7,
+          "deformation_rate_mm_year": 10.71,
+          "coherence_gradient": 0.685
+        },
+        {
+          "easting_m": 691.7,
+          "deformation_rate_mm_year": 10.1,
+          "coherence_gradient": 0.696
+        },
+        {
+          "easting_m": 701.8,
+          "deformation_rate_mm_year": 9.48,
+          "coherence_gradient": 0.7
+        },
+        {
+          "easting_m": 711.8,
+          "deformation_rate_mm_year": 8.86,
+          "coherence_gradient": 0.694
+        },
+        {
+          "easting_m": 721.8,
+          "deformation_rate_mm_year": 8.25,
+          "coherence_gradient": 0.684
+        },
+        {
+          "easting_m": 731.8,
+          "deformation_rate_mm_year": 7.65,
+          "coherence_gradient": 0.671
+        },
+        {
+          "easting_m": 741.9,
+          "deformation_rate_mm_year": 7.06,
+          "coherence_gradient": 0.654
+        },
+        {
+          "easting_m": 751.9,
+          "deformation_rate_mm_year": 6.49,
+          "coherence_gradient": 0.632
+        },
+        {
+          "easting_m": 761.9,
+          "deformation_rate_mm_year": 5.94,
+          "coherence_gradient": 0.607
+        },
+        {
+          "easting_m": 771.9,
+          "deformation_rate_mm_year": 5.41,
+          "coherence_gradient": 0.58
+        },
+        {
+          "easting_m": 782.0,
+          "deformation_rate_mm_year": 4.9,
+          "coherence_gradient": 0.552
+        },
+        {
+          "easting_m": 792.0,
+          "deformation_rate_mm_year": 4.43,
+          "coherence_gradient": 0.52
+        },
+        {
+          "easting_m": 802.0,
+          "deformation_rate_mm_year": 3.98,
+          "coherence_gradient": 0.486
+        },
+        {
+          "easting_m": 812.0,
+          "deformation_rate_mm_year": 3.56,
+          "coherence_gradient": 0.451
+        },
+        {
+          "easting_m": 822.1,
+          "deformation_rate_mm_year": 3.18,
+          "coherence_gradient": 0.417
+        },
+        {
+          "easting_m": 832.1,
+          "deformation_rate_mm_year": 2.82,
+          "coherence_gradient": 0.383
+        },
+        {
+          "easting_m": 842.1,
+          "deformation_rate_mm_year": 2.5,
+          "coherence_gradient": 0.351
+        },
+        {
+          "easting_m": 852.1,
+          "deformation_rate_mm_year": 2.2,
+          "coherence_gradient": 0.32
+        },
+        {
+          "easting_m": 862.2,
+          "deformation_rate_mm_year": 1.93,
+          "coherence_gradient": 0.291
+        },
+        {
+          "easting_m": 872.2,
+          "deformation_rate_mm_year": 1.68,
+          "coherence_gradient": 0.262
+        },
+        {
+          "easting_m": 882.2,
+          "deformation_rate_mm_year": 1.46,
+          "coherence_gradient": 0.235
+        },
+        {
+          "easting_m": 892.2,
+          "deformation_rate_mm_year": 1.26,
+          "coherence_gradient": 0.209
+        },
+        {
+          "easting_m": 902.3,
+          "deformation_rate_mm_year": 1.09,
+          "coherence_gradient": 0.185
+        },
+        {
+          "easting_m": 912.3,
+          "deformation_rate_mm_year": 0.94,
+          "coherence_gradient": 0.164
+        },
+        {
+          "easting_m": 922.3,
+          "deformation_rate_mm_year": 0.8,
+          "coherence_gradient": 0.144
+        },
+        {
+          "easting_m": 932.3,
+          "deformation_rate_mm_year": 0.68,
+          "coherence_gradient": 0.126
+        },
+        {
+          "easting_m": 942.4,
+          "deformation_rate_mm_year": 0.58,
+          "coherence_gradient": 0.109
+        },
+        {
+          "easting_m": 952.4,
+          "deformation_rate_mm_year": 0.49,
+          "coherence_gradient": 0.094
+        },
+        {
+          "easting_m": 962.4,
+          "deformation_rate_mm_year": 0.41,
+          "coherence_gradient": 0.081
+        },
+        {
+          "easting_m": 972.4,
+          "deformation_rate_mm_year": 0.34,
+          "coherence_gradient": 0.07
+        },
+        {
+          "easting_m": 982.5,
+          "deformation_rate_mm_year": 0.28,
+          "coherence_gradient": 0.059
+        },
+        {
+          "easting_m": 992.5,
+          "deformation_rate_mm_year": 0.24,
+          "coherence_gradient": 0.043
+        }
+      ]
+    },
+    "zone_c": {
+      "zone_id": "zone_c",
+      "zone_title": "Zone C (Panel 4 Stabilized)",
+      "max_subsidence_rate_mm_year": 4.19,
+      "mean_subsidence_rate_mm_year": 0.68,
+      "peak_coherence_gradient": 0.22,
+      "dip_transect": [
+        {
+          "northing_m": 0.0,
+          "deformation_rate_mm_year": 0.04,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 10.0,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 20.1,
+          "deformation_rate_mm_year": 0.06,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 30.1,
+          "deformation_rate_mm_year": 0.08,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 40.1,
+          "deformation_rate_mm_year": 0.1,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 50.2,
+          "deformation_rate_mm_year": 0.12,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 60.2,
+          "deformation_rate_mm_year": 0.14,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 70.2,
+          "deformation_rate_mm_year": 0.17,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 80.3,
+          "deformation_rate_mm_year": 0.21,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 90.3,
+          "deformation_rate_mm_year": 0.25,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 100.3,
+          "deformation_rate_mm_year": 0.3,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 110.3,
+          "deformation_rate_mm_year": 0.36,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 120.4,
+          "deformation_rate_mm_year": 0.42,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 130.4,
+          "deformation_rate_mm_year": 0.49,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 140.4,
+          "deformation_rate_mm_year": 0.57,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 150.5,
+          "deformation_rate_mm_year": 0.66,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 160.5,
+          "deformation_rate_mm_year": 0.77,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 170.5,
+          "deformation_rate_mm_year": 0.88,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 180.6,
+          "deformation_rate_mm_year": 1.0,
+          "coherence_gradient": 0.052
+        },
+        {
+          "northing_m": 190.6,
+          "deformation_rate_mm_year": 1.13,
+          "coherence_gradient": 0.059
+        },
+        {
+          "northing_m": 200.6,
+          "deformation_rate_mm_year": 1.27,
+          "coherence_gradient": 0.066
+        },
+        {
+          "northing_m": 210.7,
+          "deformation_rate_mm_year": 1.42,
+          "coherence_gradient": 0.074
+        },
+        {
+          "northing_m": 220.7,
+          "deformation_rate_mm_year": 1.58,
+          "coherence_gradient": 0.083
+        },
+        {
+          "northing_m": 230.7,
+          "deformation_rate_mm_year": 1.75,
+          "coherence_gradient": 0.091
+        },
+        {
+          "northing_m": 240.8,
+          "deformation_rate_mm_year": 1.92,
+          "coherence_gradient": 0.101
+        },
+        {
+          "northing_m": 250.8,
+          "deformation_rate_mm_year": 2.1,
+          "coherence_gradient": 0.11
+        },
+        {
+          "northing_m": 260.8,
+          "deformation_rate_mm_year": 2.28,
+          "coherence_gradient": 0.119
+        },
+        {
+          "northing_m": 270.8,
+          "deformation_rate_mm_year": 2.46,
+          "coherence_gradient": 0.129
+        },
+        {
+          "northing_m": 280.9,
+          "deformation_rate_mm_year": 2.65,
+          "coherence_gradient": 0.139
+        },
+        {
+          "northing_m": 290.9,
+          "deformation_rate_mm_year": 2.83,
+          "coherence_gradient": 0.148
+        },
+        {
+          "northing_m": 300.9,
+          "deformation_rate_mm_year": 3.0,
+          "coherence_gradient": 0.157
+        },
+        {
+          "northing_m": 311.0,
+          "deformation_rate_mm_year": 3.17,
+          "coherence_gradient": 0.166
+        },
+        {
+          "northing_m": 321.0,
+          "deformation_rate_mm_year": 3.32,
+          "coherence_gradient": 0.174
+        },
+        {
+          "northing_m": 331.0,
+          "deformation_rate_mm_year": 3.47,
+          "coherence_gradient": 0.182
+        },
+        {
+          "northing_m": 341.1,
+          "deformation_rate_mm_year": 3.6,
+          "coherence_gradient": 0.189
+        },
+        {
+          "northing_m": 351.1,
+          "deformation_rate_mm_year": 3.71,
+          "coherence_gradient": 0.194
+        },
+        {
+          "northing_m": 361.1,
+          "deformation_rate_mm_year": 3.81,
+          "coherence_gradient": 0.199
+        },
+        {
+          "northing_m": 371.2,
+          "deformation_rate_mm_year": 3.88,
+          "coherence_gradient": 0.203
+        },
+        {
+          "northing_m": 381.2,
+          "deformation_rate_mm_year": 3.94,
+          "coherence_gradient": 0.206
+        },
+        {
+          "northing_m": 391.2,
+          "deformation_rate_mm_year": 3.97,
+          "coherence_gradient": 0.208
+        },
+        {
+          "northing_m": 401.3,
+          "deformation_rate_mm_year": 3.98,
+          "coherence_gradient": 0.208
+        },
+        {
+          "northing_m": 411.3,
+          "deformation_rate_mm_year": 3.96,
+          "coherence_gradient": 0.208
+        },
+        {
+          "northing_m": 421.3,
+          "deformation_rate_mm_year": 3.93,
+          "coherence_gradient": 0.206
+        },
+        {
+          "northing_m": 431.3,
+          "deformation_rate_mm_year": 3.87,
+          "coherence_gradient": 0.203
+        },
+        {
+          "northing_m": 441.4,
+          "deformation_rate_mm_year": 3.79,
+          "coherence_gradient": 0.198
+        },
+        {
+          "northing_m": 451.4,
+          "deformation_rate_mm_year": 3.69,
+          "coherence_gradient": 0.193
+        },
+        {
+          "northing_m": 461.4,
+          "deformation_rate_mm_year": 3.57,
+          "coherence_gradient": 0.187
+        },
+        {
+          "northing_m": 471.5,
+          "deformation_rate_mm_year": 3.43,
+          "coherence_gradient": 0.18
+        },
+        {
+          "northing_m": 481.5,
+          "deformation_rate_mm_year": 3.29,
+          "coherence_gradient": 0.172
+        },
+        {
+          "northing_m": 491.5,
+          "deformation_rate_mm_year": 3.13,
+          "coherence_gradient": 0.164
+        },
+        {
+          "northing_m": 501.6,
+          "deformation_rate_mm_year": 2.96,
+          "coherence_gradient": 0.155
+        },
+        {
+          "northing_m": 511.6,
+          "deformation_rate_mm_year": 2.78,
+          "coherence_gradient": 0.146
+        },
+        {
+          "northing_m": 521.6,
+          "deformation_rate_mm_year": 2.6,
+          "coherence_gradient": 0.136
+        },
+        {
+          "northing_m": 531.7,
+          "deformation_rate_mm_year": 2.42,
+          "coherence_gradient": 0.127
+        },
+        {
+          "northing_m": 541.7,
+          "deformation_rate_mm_year": 2.23,
+          "coherence_gradient": 0.117
+        },
+        {
+          "northing_m": 551.7,
+          "deformation_rate_mm_year": 2.05,
+          "coherence_gradient": 0.108
+        },
+        {
+          "northing_m": 561.8,
+          "deformation_rate_mm_year": 1.88,
+          "coherence_gradient": 0.098
+        },
+        {
+          "northing_m": 571.8,
+          "deformation_rate_mm_year": 1.7,
+          "coherence_gradient": 0.089
+        },
+        {
+          "northing_m": 581.8,
+          "deformation_rate_mm_year": 1.54,
+          "coherence_gradient": 0.081
+        },
+        {
+          "northing_m": 591.8,
+          "deformation_rate_mm_year": 1.38,
+          "coherence_gradient": 0.072
+        },
+        {
+          "northing_m": 601.9,
+          "deformation_rate_mm_year": 1.23,
+          "coherence_gradient": 0.065
+        },
+        {
+          "northing_m": 611.9,
+          "deformation_rate_mm_year": 1.09,
+          "coherence_gradient": 0.057
+        },
+        {
+          "northing_m": 621.9,
+          "deformation_rate_mm_year": 0.97,
+          "coherence_gradient": 0.051
+        },
+        {
+          "northing_m": 632.0,
+          "deformation_rate_mm_year": 0.85,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 642.0,
+          "deformation_rate_mm_year": 0.74,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 652.0,
+          "deformation_rate_mm_year": 0.64,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 662.1,
+          "deformation_rate_mm_year": 0.55,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 672.1,
+          "deformation_rate_mm_year": 0.47,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 682.1,
+          "deformation_rate_mm_year": 0.4,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 692.2,
+          "deformation_rate_mm_year": 0.34,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 702.2,
+          "deformation_rate_mm_year": 0.29,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 712.2,
+          "deformation_rate_mm_year": 0.24,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 722.3,
+          "deformation_rate_mm_year": 0.2,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 732.3,
+          "deformation_rate_mm_year": 0.17,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 742.3,
+          "deformation_rate_mm_year": 0.14,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 752.4,
+          "deformation_rate_mm_year": 0.11,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 762.4,
+          "deformation_rate_mm_year": 0.09,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 772.4,
+          "deformation_rate_mm_year": 0.07,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 782.4,
+          "deformation_rate_mm_year": 0.06,
+          "coherence_gradient": 0.05
+        },
+        {
+          "northing_m": 792.5,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.05
+        }
+      ],
+      "strike_transect": [
+        {
+          "easting_m": 0.0,
+          "deformation_rate_mm_year": 0.04,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 10.0,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 20.1,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 30.1,
+          "deformation_rate_mm_year": 0.07,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 40.1,
+          "deformation_rate_mm_year": 0.08,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 50.1,
+          "deformation_rate_mm_year": 0.09,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 60.2,
+          "deformation_rate_mm_year": 0.11,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 70.2,
+          "deformation_rate_mm_year": 0.13,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 80.2,
+          "deformation_rate_mm_year": 0.15,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 90.2,
+          "deformation_rate_mm_year": 0.18,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 100.3,
+          "deformation_rate_mm_year": 0.21,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 110.3,
+          "deformation_rate_mm_year": 0.24,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 120.3,
+          "deformation_rate_mm_year": 0.28,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 130.3,
+          "deformation_rate_mm_year": 0.32,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 140.4,
+          "deformation_rate_mm_year": 0.37,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 150.4,
+          "deformation_rate_mm_year": 0.43,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 160.4,
+          "deformation_rate_mm_year": 0.48,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 170.4,
+          "deformation_rate_mm_year": 0.55,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 180.5,
+          "deformation_rate_mm_year": 0.62,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 190.5,
+          "deformation_rate_mm_year": 0.7,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 200.5,
+          "deformation_rate_mm_year": 0.78,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 210.5,
+          "deformation_rate_mm_year": 0.87,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 220.6,
+          "deformation_rate_mm_year": 0.97,
+          "coherence_gradient": 0.051
+        },
+        {
+          "easting_m": 230.6,
+          "deformation_rate_mm_year": 1.08,
+          "coherence_gradient": 0.056
+        },
+        {
+          "easting_m": 240.6,
+          "deformation_rate_mm_year": 1.19,
+          "coherence_gradient": 0.062
+        },
+        {
+          "easting_m": 250.6,
+          "deformation_rate_mm_year": 1.3,
+          "coherence_gradient": 0.068
+        },
+        {
+          "easting_m": 260.7,
+          "deformation_rate_mm_year": 1.43,
+          "coherence_gradient": 0.075
+        },
+        {
+          "easting_m": 270.7,
+          "deformation_rate_mm_year": 1.55,
+          "coherence_gradient": 0.081
+        },
+        {
+          "easting_m": 280.7,
+          "deformation_rate_mm_year": 1.69,
+          "coherence_gradient": 0.088
+        },
+        {
+          "easting_m": 290.7,
+          "deformation_rate_mm_year": 1.82,
+          "coherence_gradient": 0.095
+        },
+        {
+          "easting_m": 300.8,
+          "deformation_rate_mm_year": 1.96,
+          "coherence_gradient": 0.103
+        },
+        {
+          "easting_m": 310.8,
+          "deformation_rate_mm_year": 2.1,
+          "coherence_gradient": 0.11
+        },
+        {
+          "easting_m": 320.8,
+          "deformation_rate_mm_year": 2.25,
+          "coherence_gradient": 0.118
+        },
+        {
+          "easting_m": 330.8,
+          "deformation_rate_mm_year": 2.39,
+          "coherence_gradient": 0.125
+        },
+        {
+          "easting_m": 340.9,
+          "deformation_rate_mm_year": 2.53,
+          "coherence_gradient": 0.133
+        },
+        {
+          "easting_m": 350.9,
+          "deformation_rate_mm_year": 2.67,
+          "coherence_gradient": 0.14
+        },
+        {
+          "easting_m": 360.9,
+          "deformation_rate_mm_year": 2.81,
+          "coherence_gradient": 0.147
+        },
+        {
+          "easting_m": 370.9,
+          "deformation_rate_mm_year": 2.94,
+          "coherence_gradient": 0.154
+        },
+        {
+          "easting_m": 381.0,
+          "deformation_rate_mm_year": 3.06,
+          "coherence_gradient": 0.161
+        },
+        {
+          "easting_m": 391.0,
+          "deformation_rate_mm_year": 3.18,
+          "coherence_gradient": 0.167
+        },
+        {
+          "easting_m": 401.0,
+          "deformation_rate_mm_year": 3.29,
+          "coherence_gradient": 0.172
+        },
+        {
+          "easting_m": 411.0,
+          "deformation_rate_mm_year": 3.39,
+          "coherence_gradient": 0.178
+        },
+        {
+          "easting_m": 421.1,
+          "deformation_rate_mm_year": 3.48,
+          "coherence_gradient": 0.182
+        },
+        {
+          "easting_m": 431.1,
+          "deformation_rate_mm_year": 3.55,
+          "coherence_gradient": 0.186
+        },
+        {
+          "easting_m": 441.1,
+          "deformation_rate_mm_year": 3.62,
+          "coherence_gradient": 0.189
+        },
+        {
+          "easting_m": 451.1,
+          "deformation_rate_mm_year": 3.67,
+          "coherence_gradient": 0.192
+        },
+        {
+          "easting_m": 461.2,
+          "deformation_rate_mm_year": 3.7,
+          "coherence_gradient": 0.194
+        },
+        {
+          "easting_m": 471.2,
+          "deformation_rate_mm_year": 3.72,
+          "coherence_gradient": 0.195
+        },
+        {
+          "easting_m": 481.2,
+          "deformation_rate_mm_year": 3.73,
+          "coherence_gradient": 0.195
+        },
+        {
+          "easting_m": 491.2,
+          "deformation_rate_mm_year": 3.72,
+          "coherence_gradient": 0.195
+        },
+        {
+          "easting_m": 501.3,
+          "deformation_rate_mm_year": 3.69,
+          "coherence_gradient": 0.193
+        },
+        {
+          "easting_m": 511.3,
+          "deformation_rate_mm_year": 3.66,
+          "coherence_gradient": 0.191
+        },
+        {
+          "easting_m": 521.3,
+          "deformation_rate_mm_year": 3.6,
+          "coherence_gradient": 0.189
+        },
+        {
+          "easting_m": 531.3,
+          "deformation_rate_mm_year": 3.54,
+          "coherence_gradient": 0.185
+        },
+        {
+          "easting_m": 541.4,
+          "deformation_rate_mm_year": 3.46,
+          "coherence_gradient": 0.181
+        },
+        {
+          "easting_m": 551.4,
+          "deformation_rate_mm_year": 3.37,
+          "coherence_gradient": 0.176
+        },
+        {
+          "easting_m": 561.4,
+          "deformation_rate_mm_year": 3.27,
+          "coherence_gradient": 0.171
+        },
+        {
+          "easting_m": 571.4,
+          "deformation_rate_mm_year": 3.15,
+          "coherence_gradient": 0.165
+        },
+        {
+          "easting_m": 581.5,
+          "deformation_rate_mm_year": 3.03,
+          "coherence_gradient": 0.159
+        },
+        {
+          "easting_m": 591.5,
+          "deformation_rate_mm_year": 2.91,
+          "coherence_gradient": 0.152
+        },
+        {
+          "easting_m": 601.5,
+          "deformation_rate_mm_year": 2.78,
+          "coherence_gradient": 0.145
+        },
+        {
+          "easting_m": 611.5,
+          "deformation_rate_mm_year": 2.64,
+          "coherence_gradient": 0.138
+        },
+        {
+          "easting_m": 621.6,
+          "deformation_rate_mm_year": 2.5,
+          "coherence_gradient": 0.131
+        },
+        {
+          "easting_m": 631.6,
+          "deformation_rate_mm_year": 2.36,
+          "coherence_gradient": 0.123
+        },
+        {
+          "easting_m": 641.6,
+          "deformation_rate_mm_year": 2.21,
+          "coherence_gradient": 0.116
+        },
+        {
+          "easting_m": 651.6,
+          "deformation_rate_mm_year": 2.07,
+          "coherence_gradient": 0.108
+        },
+        {
+          "easting_m": 661.7,
+          "deformation_rate_mm_year": 1.93,
+          "coherence_gradient": 0.101
+        },
+        {
+          "easting_m": 671.7,
+          "deformation_rate_mm_year": 1.79,
+          "coherence_gradient": 0.094
+        },
+        {
+          "easting_m": 681.7,
+          "deformation_rate_mm_year": 1.65,
+          "coherence_gradient": 0.087
+        },
+        {
+          "easting_m": 691.7,
+          "deformation_rate_mm_year": 1.52,
+          "coherence_gradient": 0.08
+        },
+        {
+          "easting_m": 701.8,
+          "deformation_rate_mm_year": 1.4,
+          "coherence_gradient": 0.073
+        },
+        {
+          "easting_m": 711.8,
+          "deformation_rate_mm_year": 1.27,
+          "coherence_gradient": 0.067
+        },
+        {
+          "easting_m": 721.8,
+          "deformation_rate_mm_year": 1.16,
+          "coherence_gradient": 0.061
+        },
+        {
+          "easting_m": 731.8,
+          "deformation_rate_mm_year": 1.05,
+          "coherence_gradient": 0.055
+        },
+        {
+          "easting_m": 741.9,
+          "deformation_rate_mm_year": 0.95,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 751.9,
+          "deformation_rate_mm_year": 0.85,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 761.9,
+          "deformation_rate_mm_year": 0.76,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 771.9,
+          "deformation_rate_mm_year": 0.68,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 782.0,
+          "deformation_rate_mm_year": 0.6,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 792.0,
+          "deformation_rate_mm_year": 0.53,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 802.0,
+          "deformation_rate_mm_year": 0.47,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 812.0,
+          "deformation_rate_mm_year": 0.41,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 822.1,
+          "deformation_rate_mm_year": 0.36,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 832.1,
+          "deformation_rate_mm_year": 0.31,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 842.1,
+          "deformation_rate_mm_year": 0.27,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 852.1,
+          "deformation_rate_mm_year": 0.23,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 862.2,
+          "deformation_rate_mm_year": 0.2,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 872.2,
+          "deformation_rate_mm_year": 0.17,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 882.2,
+          "deformation_rate_mm_year": 0.15,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 892.2,
+          "deformation_rate_mm_year": 0.13,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 902.3,
+          "deformation_rate_mm_year": 0.11,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 912.3,
+          "deformation_rate_mm_year": 0.09,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 922.3,
+          "deformation_rate_mm_year": 0.07,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 932.3,
+          "deformation_rate_mm_year": 0.06,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 942.4,
+          "deformation_rate_mm_year": 0.05,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 952.4,
+          "deformation_rate_mm_year": 0.04,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 962.4,
+          "deformation_rate_mm_year": 0.04,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 972.4,
+          "deformation_rate_mm_year": 0.03,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 982.5,
+          "deformation_rate_mm_year": 0.02,
+          "coherence_gradient": 0.05
+        },
+        {
+          "easting_m": 992.5,
+          "deformation_rate_mm_year": 0.02,
+          "coherence_gradient": 0.05
+        }
+      ]
+    }
+  },
+  "max_subsidence_rate_mm_year": 28.2,
+  "mean_subsidence_rate_mm_year": 7.54,
+  "peak_coherence_gradient": 0.927,
+  "annular_tension_radius_meters": 420.0,
+  "compression_core_radius_meters": 160.0,
+  "dip_transect": [
+    {
+      "northing_m": 0.0,
+      "deformation_rate_mm_year": 0.64,
+      "coherence_gradient": 0.083
+    },
+    {
+      "northing_m": 10.0,
+      "deformation_rate_mm_year": 0.74,
+      "coherence_gradient": 0.118
+    },
+    {
+      "northing_m": 20.1,
+      "deformation_rate_mm_year": 0.89,
+      "coherence_gradient": 0.151
+    },
+    {
+      "northing_m": 30.1,
+      "deformation_rate_mm_year": 1.07,
+      "coherence_gradient": 0.176
+    },
+    {
+      "northing_m": 40.1,
+      "deformation_rate_mm_year": 1.29,
+      "coherence_gradient": 0.203
+    },
+    {
+      "northing_m": 50.2,
+      "deformation_rate_mm_year": 1.53,
+      "coherence_gradient": 0.233
+    },
+    {
+      "northing_m": 60.2,
+      "deformation_rate_mm_year": 1.81,
+      "coherence_gradient": 0.265
+    },
+    {
+      "northing_m": 70.2,
+      "deformation_rate_mm_year": 2.12,
+      "coherence_gradient": 0.299
+    },
+    {
+      "northing_m": 80.3,
+      "deformation_rate_mm_year": 2.48,
+      "coherence_gradient": 0.336
+    },
+    {
+      "northing_m": 90.3,
+      "deformation_rate_mm_year": 2.88,
+      "coherence_gradient": 0.373
+    },
+    {
+      "northing_m": 100.3,
+      "deformation_rate_mm_year": 3.32,
+      "coherence_gradient": 0.412
+    },
+    {
+      "northing_m": 110.3,
+      "deformation_rate_mm_year": 3.8,
+      "coherence_gradient": 0.452
+    },
+    {
+      "northing_m": 120.4,
+      "deformation_rate_mm_year": 4.33,
+      "coherence_gradient": 0.494
+    },
+    {
+      "northing_m": 130.4,
+      "deformation_rate_mm_year": 4.91,
+      "coherence_gradient": 0.536
+    },
+    {
+      "northing_m": 140.4,
+      "deformation_rate_mm_year": 5.54,
+      "coherence_gradient": 0.578
+    },
+    {
+      "northing_m": 150.5,
+      "deformation_rate_mm_year": 6.21,
+      "coherence_gradient": 0.62
+    },
+    {
+      "northing_m": 160.5,
+      "deformation_rate_mm_year": 6.94,
+      "coherence_gradient": 0.66
+    },
+    {
+      "northing_m": 170.5,
+      "deformation_rate_mm_year": 7.7,
+      "coherence_gradient": 0.698
+    },
+    {
+      "northing_m": 180.6,
+      "deformation_rate_mm_year": 8.51,
+      "coherence_gradient": 0.734
+    },
+    {
+      "northing_m": 190.6,
+      "deformation_rate_mm_year": 9.36,
+      "coherence_gradient": 0.768
+    },
+    {
+      "northing_m": 200.6,
+      "deformation_rate_mm_year": 10.24,
+      "coherence_gradient": 0.799
+    },
+    {
+      "northing_m": 210.7,
+      "deformation_rate_mm_year": 11.16,
+      "coherence_gradient": 0.824
+    },
+    {
+      "northing_m": 220.7,
+      "deformation_rate_mm_year": 12.11,
+      "coherence_gradient": 0.844
+    },
+    {
+      "northing_m": 230.7,
+      "deformation_rate_mm_year": 13.08,
+      "coherence_gradient": 0.859
+    },
+    {
+      "northing_m": 240.8,
+      "deformation_rate_mm_year": 14.06,
+      "coherence_gradient": 0.869
+    },
+    {
+      "northing_m": 250.8,
+      "deformation_rate_mm_year": 15.06,
+      "coherence_gradient": 0.873
+    },
+    {
+      "northing_m": 260.8,
+      "deformation_rate_mm_year": 16.06,
+      "coherence_gradient": 0.869
+    },
+    {
+      "northing_m": 270.8,
+      "deformation_rate_mm_year": 17.06,
+      "coherence_gradient": 0.858
+    },
+    {
+      "northing_m": 280.9,
+      "deformation_rate_mm_year": 18.05,
+      "coherence_gradient": 0.839
+    },
+    {
+      "northing_m": 290.9,
+      "deformation_rate_mm_year": 19.02,
+      "coherence_gradient": 0.812
+    },
+    {
+      "northing_m": 300.9,
+      "deformation_rate_mm_year": 19.97,
+      "coherence_gradient": 0.777
+    },
+    {
+      "northing_m": 311.0,
+      "deformation_rate_mm_year": 20.88,
+      "coherence_gradient": 0.736
+    },
+    {
+      "northing_m": 321.0,
+      "deformation_rate_mm_year": 21.76,
+      "coherence_gradient": 0.689
+    },
+    {
+      "northing_m": 331.0,
+      "deformation_rate_mm_year": 22.6,
+      "coherence_gradient": 0.639
+    },
+    {
+      "northing_m": 341.1,
+      "deformation_rate_mm_year": 23.38,
+      "coherence_gradient": 0.586
+    },
+    {
+      "northing_m": 351.1,
+      "deformation_rate_mm_year": 24.12,
+      "coherence_gradient": 0.532
+    },
+    {
+      "northing_m": 361.1,
+      "deformation_rate_mm_year": 24.8,
+      "coherence_gradient": 0.478
+    },
+    {
+      "northing_m": 371.2,
+      "deformation_rate_mm_year": 25.43,
+      "coherence_gradient": 0.427
+    },
+    {
+      "northing_m": 381.2,
+      "deformation_rate_mm_year": 26.0,
+      "coherence_gradient": 0.38
+    },
+    {
+      "northing_m": 391.2,
+      "deformation_rate_mm_year": 26.51,
+      "coherence_gradient": 0.336
+    },
+    {
+      "northing_m": 401.3,
+      "deformation_rate_mm_year": 26.96,
+      "coherence_gradient": 0.297
+    },
+    {
+      "northing_m": 411.3,
+      "deformation_rate_mm_year": 27.33,
+      "coherence_gradient": 0.263
+    },
+    {
+      "northing_m": 421.3,
+      "deformation_rate_mm_year": 27.63,
+      "coherence_gradient": 0.236
+    },
+    {
+      "northing_m": 431.3,
+      "deformation_rate_mm_year": 27.86,
+      "coherence_gradient": 0.217
+    },
+    {
+      "northing_m": 441.4,
+      "deformation_rate_mm_year": 28.02,
+      "coherence_gradient": 0.205
+    },
+    {
+      "northing_m": 451.4,
+      "deformation_rate_mm_year": 28.12,
+      "coherence_gradient": 0.196
+    },
+    {
+      "northing_m": 461.4,
+      "deformation_rate_mm_year": 28.18,
+      "coherence_gradient": 0.19
+    },
+    {
+      "northing_m": 471.5,
+      "deformation_rate_mm_year": 28.2,
+      "coherence_gradient": 0.188
+    },
+    {
+      "northing_m": 481.5,
+      "deformation_rate_mm_year": 28.17,
+      "coherence_gradient": 0.192
+    },
+    {
+      "northing_m": 491.5,
+      "deformation_rate_mm_year": 28.1,
+      "coherence_gradient": 0.199
+    },
+    {
+      "northing_m": 501.6,
+      "deformation_rate_mm_year": 27.97,
+      "coherence_gradient": 0.21
+    },
+    {
+      "northing_m": 511.6,
+      "deformation_rate_mm_year": 27.78,
+      "coherence_gradient": 0.223
+    },
+    {
+      "northing_m": 521.6,
+      "deformation_rate_mm_year": 27.54,
+      "coherence_gradient": 0.241
+    },
+    {
+      "northing_m": 531.7,
+      "deformation_rate_mm_year": 27.24,
+      "coherence_gradient": 0.264
+    },
+    {
+      "northing_m": 541.7,
+      "deformation_rate_mm_year": 26.87,
+      "coherence_gradient": 0.292
+    },
+    {
+      "northing_m": 551.7,
+      "deformation_rate_mm_year": 26.45,
+      "coherence_gradient": 0.324
+    },
+    {
+      "northing_m": 561.8,
+      "deformation_rate_mm_year": 25.98,
+      "coherence_gradient": 0.359
+    },
+    {
+      "northing_m": 571.8,
+      "deformation_rate_mm_year": 25.46,
+      "coherence_gradient": 0.4
+    },
+    {
+      "northing_m": 581.8,
+      "deformation_rate_mm_year": 24.89,
+      "coherence_gradient": 0.445
+    },
+    {
+      "northing_m": 591.8,
+      "deformation_rate_mm_year": 24.26,
+      "coherence_gradient": 0.493
+    },
+    {
+      "northing_m": 601.9,
+      "deformation_rate_mm_year": 23.59,
+      "coherence_gradient": 0.54
+    },
+    {
+      "northing_m": 611.9,
+      "deformation_rate_mm_year": 22.88,
+      "coherence_gradient": 0.584
+    },
+    {
+      "northing_m": 621.9,
+      "deformation_rate_mm_year": 22.13,
+      "coherence_gradient": 0.625
+    },
+    {
+      "northing_m": 632.0,
+      "deformation_rate_mm_year": 21.36,
+      "coherence_gradient": 0.665
+    },
+    {
+      "northing_m": 642.0,
+      "deformation_rate_mm_year": 20.56,
+      "coherence_gradient": 0.702
+    },
+    {
+      "northing_m": 652.0,
+      "deformation_rate_mm_year": 19.74,
+      "coherence_gradient": 0.736
+    },
+    {
+      "northing_m": 662.1,
+      "deformation_rate_mm_year": 18.91,
+      "coherence_gradient": 0.765
+    },
+    {
+      "northing_m": 672.1,
+      "deformation_rate_mm_year": 18.06,
+      "coherence_gradient": 0.788
+    },
+    {
+      "northing_m": 682.1,
+      "deformation_rate_mm_year": 17.21,
+      "coherence_gradient": 0.807
+    },
+    {
+      "northing_m": 692.2,
+      "deformation_rate_mm_year": 16.36,
+      "coherence_gradient": 0.821
+    },
+    {
+      "northing_m": 702.2,
+      "deformation_rate_mm_year": 15.51,
+      "coherence_gradient": 0.832
+    },
+    {
+      "northing_m": 712.2,
+      "deformation_rate_mm_year": 14.67,
+      "coherence_gradient": 0.839
+    },
+    {
+      "northing_m": 722.3,
+      "deformation_rate_mm_year": 13.83,
+      "coherence_gradient": 0.84
+    },
+    {
+      "northing_m": 732.3,
+      "deformation_rate_mm_year": 13.0,
+      "coherence_gradient": 0.833
+    },
+    {
+      "northing_m": 742.3,
+      "deformation_rate_mm_year": 12.19,
+      "coherence_gradient": 0.818
+    },
+    {
+      "northing_m": 752.4,
+      "deformation_rate_mm_year": 11.4,
+      "coherence_gradient": 0.797
+    },
+    {
+      "northing_m": 762.4,
+      "deformation_rate_mm_year": 10.64,
+      "coherence_gradient": 0.771
+    },
+    {
+      "northing_m": 772.4,
+      "deformation_rate_mm_year": 9.91,
+      "coherence_gradient": 0.741
+    },
+    {
+      "northing_m": 782.4,
+      "deformation_rate_mm_year": 9.2,
+      "coherence_gradient": 0.699
+    },
+    {
+      "northing_m": 792.5,
+      "deformation_rate_mm_year": 8.53,
+      "coherence_gradient": 0.572
+    }
+  ],
+  "strike_transect": [
+    {
+      "easting_m": 0.0,
+      "deformation_rate_mm_year": 0.66,
+      "coherence_gradient": 0.057
+    },
+    {
+      "easting_m": 10.0,
+      "deformation_rate_mm_year": 0.73,
+      "coherence_gradient": 0.081
+    },
+    {
+      "easting_m": 20.1,
+      "deformation_rate_mm_year": 0.84,
+      "coherence_gradient": 0.102
+    },
+    {
+      "easting_m": 30.1,
+      "deformation_rate_mm_year": 0.97,
+      "coherence_gradient": 0.115
+    },
+    {
+      "easting_m": 40.1,
+      "deformation_rate_mm_year": 1.11,
+      "coherence_gradient": 0.129
+    },
+    {
+      "easting_m": 50.1,
+      "deformation_rate_mm_year": 1.26,
+      "coherence_gradient": 0.145
+    },
+    {
+      "easting_m": 60.2,
+      "deformation_rate_mm_year": 1.43,
+      "coherence_gradient": 0.162
+    },
+    {
+      "easting_m": 70.2,
+      "deformation_rate_mm_year": 1.63,
+      "coherence_gradient": 0.18
+    },
+    {
+      "easting_m": 80.2,
+      "deformation_rate_mm_year": 1.84,
+      "coherence_gradient": 0.2
+    },
+    {
+      "easting_m": 90.2,
+      "deformation_rate_mm_year": 2.08,
+      "coherence_gradient": 0.221
+    },
+    {
+      "easting_m": 100.3,
+      "deformation_rate_mm_year": 2.34,
+      "coherence_gradient": 0.244
+    },
+    {
+      "easting_m": 110.3,
+      "deformation_rate_mm_year": 2.63,
+      "coherence_gradient": 0.269
+    },
+    {
+      "easting_m": 120.3,
+      "deformation_rate_mm_year": 2.94,
+      "coherence_gradient": 0.296
+    },
+    {
+      "easting_m": 130.3,
+      "deformation_rate_mm_year": 3.28,
+      "coherence_gradient": 0.325
+    },
+    {
+      "easting_m": 140.4,
+      "deformation_rate_mm_year": 3.66,
+      "coherence_gradient": 0.357
+    },
+    {
+      "easting_m": 150.4,
+      "deformation_rate_mm_year": 4.07,
+      "coherence_gradient": 0.39
+    },
+    {
+      "easting_m": 160.4,
+      "deformation_rate_mm_year": 4.51,
+      "coherence_gradient": 0.425
+    },
+    {
+      "easting_m": 170.4,
+      "deformation_rate_mm_year": 4.98,
+      "coherence_gradient": 0.461
+    },
+    {
+      "easting_m": 180.5,
+      "deformation_rate_mm_year": 5.49,
+      "coherence_gradient": 0.498
+    },
+    {
+      "easting_m": 190.5,
+      "deformation_rate_mm_year": 6.04,
+      "coherence_gradient": 0.536
+    },
+    {
+      "easting_m": 200.5,
+      "deformation_rate_mm_year": 6.62,
+      "coherence_gradient": 0.575
+    },
+    {
+      "easting_m": 210.5,
+      "deformation_rate_mm_year": 7.23,
+      "coherence_gradient": 0.614
+    },
+    {
+      "easting_m": 220.6,
+      "deformation_rate_mm_year": 7.88,
+      "coherence_gradient": 0.655
+    },
+    {
+      "easting_m": 230.6,
+      "deformation_rate_mm_year": 8.57,
+      "coherence_gradient": 0.695
+    },
+    {
+      "easting_m": 240.6,
+      "deformation_rate_mm_year": 9.29,
+      "coherence_gradient": 0.733
+    },
+    {
+      "easting_m": 250.6,
+      "deformation_rate_mm_year": 10.05,
+      "coherence_gradient": 0.766
+    },
+    {
+      "easting_m": 260.7,
+      "deformation_rate_mm_year": 10.84,
+      "coherence_gradient": 0.794
+    },
+    {
+      "easting_m": 270.7,
+      "deformation_rate_mm_year": 11.65,
+      "coherence_gradient": 0.818
+    },
+    {
+      "easting_m": 280.7,
+      "deformation_rate_mm_year": 12.49,
+      "coherence_gradient": 0.837
+    },
+    {
+      "easting_m": 290.7,
+      "deformation_rate_mm_year": 13.35,
+      "coherence_gradient": 0.852
+    },
+    {
+      "easting_m": 300.8,
+      "deformation_rate_mm_year": 14.23,
+      "coherence_gradient": 0.861
+    },
+    {
+      "easting_m": 310.8,
+      "deformation_rate_mm_year": 15.12,
+      "coherence_gradient": 0.863
+    },
+    {
+      "easting_m": 320.8,
+      "deformation_rate_mm_year": 16.02,
+      "coherence_gradient": 0.858
+    },
+    {
+      "easting_m": 330.8,
+      "deformation_rate_mm_year": 16.93,
+      "coherence_gradient": 0.849
+    },
+    {
+      "easting_m": 340.9,
+      "deformation_rate_mm_year": 17.84,
+      "coherence_gradient": 0.835
+    },
+    {
+      "easting_m": 350.9,
+      "deformation_rate_mm_year": 18.75,
+      "coherence_gradient": 0.815
+    },
+    {
+      "easting_m": 360.9,
+      "deformation_rate_mm_year": 19.65,
+      "coherence_gradient": 0.787
+    },
+    {
+      "easting_m": 370.9,
+      "deformation_rate_mm_year": 20.54,
+      "coherence_gradient": 0.751
+    },
+    {
+      "easting_m": 381.0,
+      "deformation_rate_mm_year": 21.4,
+      "coherence_gradient": 0.708
+    },
+    {
+      "easting_m": 391.0,
+      "deformation_rate_mm_year": 22.23,
+      "coherence_gradient": 0.66
+    },
+    {
+      "easting_m": 401.0,
+      "deformation_rate_mm_year": 23.01,
+      "coherence_gradient": 0.609
+    },
+    {
+      "easting_m": 411.0,
+      "deformation_rate_mm_year": 23.75,
+      "coherence_gradient": 0.557
+    },
+    {
+      "easting_m": 421.1,
+      "deformation_rate_mm_year": 24.45,
+      "coherence_gradient": 0.506
+    },
+    {
+      "easting_m": 431.1,
+      "deformation_rate_mm_year": 25.1,
+      "coherence_gradient": 0.457
+    },
+    {
+      "easting_m": 441.1,
+      "deformation_rate_mm_year": 25.69,
+      "coherence_gradient": 0.409
+    },
+    {
+      "easting_m": 451.1,
+      "deformation_rate_mm_year": 26.24,
+      "coherence_gradient": 0.363
+    },
+    {
+      "easting_m": 461.2,
+      "deformation_rate_mm_year": 26.72,
+      "coherence_gradient": 0.321
+    },
+    {
+      "easting_m": 471.2,
+      "deformation_rate_mm_year": 27.13,
+      "coherence_gradient": 0.284
+    },
+    {
+      "easting_m": 481.2,
+      "deformation_rate_mm_year": 27.48,
+      "coherence_gradient": 0.254
+    },
+    {
+      "easting_m": 491.2,
+      "deformation_rate_mm_year": 27.75,
+      "coherence_gradient": 0.23
+    },
+    {
+      "easting_m": 501.3,
+      "deformation_rate_mm_year": 27.95,
+      "coherence_gradient": 0.214
+    },
+    {
+      "easting_m": 511.3,
+      "deformation_rate_mm_year": 28.09,
+      "coherence_gradient": 0.202
+    },
+    {
+      "easting_m": 521.3,
+      "deformation_rate_mm_year": 28.16,
+      "coherence_gradient": 0.193
+    },
+    {
+      "easting_m": 531.3,
+      "deformation_rate_mm_year": 28.19,
+      "coherence_gradient": 0.189
+    },
+    {
+      "easting_m": 541.4,
+      "deformation_rate_mm_year": 28.17,
+      "coherence_gradient": 0.192
+    },
+    {
+      "easting_m": 551.4,
+      "deformation_rate_mm_year": 28.09,
+      "coherence_gradient": 0.202
+    },
+    {
+      "easting_m": 561.4,
+      "deformation_rate_mm_year": 27.94,
+      "coherence_gradient": 0.215
+    },
+    {
+      "easting_m": 571.4,
+      "deformation_rate_mm_year": 27.72,
+      "coherence_gradient": 0.234
+    },
+    {
+      "easting_m": 581.5,
+      "deformation_rate_mm_year": 27.42,
+      "coherence_gradient": 0.26
+    },
+    {
+      "easting_m": 591.5,
+      "deformation_rate_mm_year": 27.04,
+      "coherence_gradient": 0.295
+    },
+    {
+      "easting_m": 601.5,
+      "deformation_rate_mm_year": 26.59,
+      "coherence_gradient": 0.337
+    },
+    {
+      "easting_m": 611.5,
+      "deformation_rate_mm_year": 26.06,
+      "coherence_gradient": 0.385
+    },
+    {
+      "easting_m": 621.6,
+      "deformation_rate_mm_year": 25.46,
+      "coherence_gradient": 0.44
+    },
+    {
+      "easting_m": 631.6,
+      "deformation_rate_mm_year": 24.78,
+      "coherence_gradient": 0.503
+    },
+    {
+      "easting_m": 641.6,
+      "deformation_rate_mm_year": 24.04,
+      "coherence_gradient": 0.57
+    },
+    {
+      "easting_m": 651.6,
+      "deformation_rate_mm_year": 23.22,
+      "coherence_gradient": 0.637
+    },
+    {
+      "easting_m": 661.7,
+      "deformation_rate_mm_year": 22.34,
+      "coherence_gradient": 0.698
+    },
+    {
+      "easting_m": 671.7,
+      "deformation_rate_mm_year": 21.41,
+      "coherence_gradient": 0.753
+    },
+    {
+      "easting_m": 681.7,
+      "deformation_rate_mm_year": 20.44,
+      "coherence_gradient": 0.802
+    },
+    {
+      "easting_m": 691.7,
+      "deformation_rate_mm_year": 19.43,
+      "coherence_gradient": 0.845
+    },
+    {
+      "easting_m": 701.8,
+      "deformation_rate_mm_year": 18.38,
+      "coherence_gradient": 0.879
+    },
+    {
+      "easting_m": 711.8,
+      "deformation_rate_mm_year": 17.32,
+      "coherence_gradient": 0.902
+    },
+    {
+      "easting_m": 721.8,
+      "deformation_rate_mm_year": 16.24,
+      "coherence_gradient": 0.916
+    },
+    {
+      "easting_m": 731.8,
+      "deformation_rate_mm_year": 15.15,
+      "coherence_gradient": 0.921
+    },
+    {
+      "easting_m": 741.9,
+      "deformation_rate_mm_year": 14.07,
+      "coherence_gradient": 0.916
+    },
+    {
+      "easting_m": 751.9,
+      "deformation_rate_mm_year": 13.01,
+      "coherence_gradient": 0.904
+    },
+    {
+      "easting_m": 761.9,
+      "deformation_rate_mm_year": 11.96,
+      "coherence_gradient": 0.885
+    },
+    {
+      "easting_m": 771.9,
+      "deformation_rate_mm_year": 10.94,
+      "coherence_gradient": 0.86
+    },
+    {
+      "easting_m": 782.0,
+      "deformation_rate_mm_year": 9.96,
+      "coherence_gradient": 0.829
+    },
+    {
+      "easting_m": 792.0,
+      "deformation_rate_mm_year": 9.01,
+      "coherence_gradient": 0.793
+    },
+    {
+      "easting_m": 802.0,
+      "deformation_rate_mm_year": 8.11,
+      "coherence_gradient": 0.752
+    },
+    {
+      "easting_m": 812.0,
+      "deformation_rate_mm_year": 7.26,
+      "coherence_gradient": 0.708
+    },
+    {
+      "easting_m": 822.1,
+      "deformation_rate_mm_year": 6.46,
+      "coherence_gradient": 0.662
+    },
+    {
+      "easting_m": 832.1,
+      "deformation_rate_mm_year": 5.71,
+      "coherence_gradient": 0.616
+    },
+    {
+      "easting_m": 842.1,
+      "deformation_rate_mm_year": 5.02,
+      "coherence_gradient": 0.569
+    },
+    {
+      "easting_m": 852.1,
+      "deformation_rate_mm_year": 4.39,
+      "coherence_gradient": 0.521
+    },
+    {
+      "easting_m": 862.2,
+      "deformation_rate_mm_year": 3.81,
+      "coherence_gradient": 0.473
+    },
+    {
+      "easting_m": 872.2,
+      "deformation_rate_mm_year": 3.28,
+      "coherence_gradient": 0.426
+    },
+    {
+      "easting_m": 882.2,
+      "deformation_rate_mm_year": 2.81,
+      "coherence_gradient": 0.381
+    },
+    {
+      "easting_m": 892.2,
+      "deformation_rate_mm_year": 2.4,
+      "coherence_gradient": 0.338
+    },
+    {
+      "easting_m": 902.3,
+      "deformation_rate_mm_year": 2.03,
+      "coherence_gradient": 0.298
+    },
+    {
+      "easting_m": 912.3,
+      "deformation_rate_mm_year": 1.7,
+      "coherence_gradient": 0.261
+    },
+    {
+      "easting_m": 922.3,
+      "deformation_rate_mm_year": 1.42,
+      "coherence_gradient": 0.226
+    },
+    {
+      "easting_m": 932.3,
+      "deformation_rate_mm_year": 1.17,
+      "coherence_gradient": 0.195
+    },
+    {
+      "easting_m": 942.4,
+      "deformation_rate_mm_year": 0.96,
+      "coherence_gradient": 0.166
+    },
+    {
+      "easting_m": 952.4,
+      "deformation_rate_mm_year": 0.78,
+      "coherence_gradient": 0.141
+    },
+    {
+      "easting_m": 962.4,
+      "deformation_rate_mm_year": 0.63,
+      "coherence_gradient": 0.118
+    },
+    {
+      "easting_m": 972.4,
+      "deformation_rate_mm_year": 0.51,
+      "coherence_gradient": 0.098
+    },
+    {
+      "easting_m": 982.5,
+      "deformation_rate_mm_year": 0.4,
+      "coherence_gradient": 0.08
+    },
+    {
+      "easting_m": 992.5,
+      "deformation_rate_mm_year": 0.32,
+      "coherence_gradient": 0.056
+    }
+  ]
+}
